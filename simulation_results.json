@@ -1,0 +1,130 @@
+{
+  "India": {
+    "group_winner": 80.02,
+    "group_runner_up": 19.85,
+    "super_8": 99.87,
+    "semi_final": 91.61,
+    "final": 129.44,
+    "champion": 64.72
+  },
+  "Pakistan": {
+    "group_winner": 19.98,
+    "group_runner_up": 79.07,
+    "super_8": 99.05000000000001,
+    "semi_final": 71.41999999999999,
+    "final": 29.520000000000003,
+    "champion": 14.760000000000002
+  },
+  "Afghanistan": {
+    "group_winner": 29.549999999999997,
+    "group_runner_up": 33.21,
+    "super_8": 62.760000000000005,
+    "semi_final": 27.889999999999997,
+    "final": 4.42,
+    "champion": 2.21
+  },
+  "Australia": {
+    "group_winner": 50.519999999999996,
+    "group_runner_up": 47.61,
+    "super_8": 98.13,
+    "semi_final": 48.620000000000005,
+    "final": 10.72,
+    "champion": 5.36
+  },
+  "Sri Lanka": {
+    "group_winner": 49.14,
+    "group_runner_up": 46.88,
+    "super_8": 96.02000000000001,
+    "semi_final": 44.51,
+    "final": 7.42,
+    "champion": 3.71
+  },
+  "New Zealand": {
+    "group_winner": 43.91,
+    "group_runner_up": 33.36,
+    "super_8": 77.27000000000001,
+    "semi_final": 38.66,
+    "final": 7.720000000000001,
+    "champion": 3.8600000000000003
+  },
+  "England": {
+    "group_winner": 78.91,
+    "group_runner_up": 20.169999999999998,
+    "super_8": 99.08,
+    "semi_final": 35.52,
+    "final": 5.319999999999999,
+    "champion": 2.6599999999999997
+  },
+  "West Indies": {
+    "group_winner": 20.830000000000002,
+    "group_runner_up": 74.25,
+    "super_8": 95.08,
+    "semi_final": 15.160000000000002,
+    "final": 0.88,
+    "champion": 0.44
+  },
+  "South Africa": {
+    "group_winner": 26.540000000000003,
+    "group_runner_up": 33.43,
+    "super_8": 59.97,
+    "semi_final": 26.479999999999997,
+    "final": 4.5600000000000005,
+    "champion": 2.2800000000000002
+  },
+  "Ireland": {
+    "group_winner": 0.25,
+    "group_runner_up": 3.53,
+    "super_8": 3.7800000000000002,
+    "semi_final": 0.08,
+    "final": 0.0,
+    "champion": 0.0
+  },
+  "Netherlands": {
+    "group_winner": 0.0,
+    "group_runner_up": 0.76,
+    "super_8": 0.76,
+    "semi_final": 0.0,
+    "final": 0.0,
+    "champion": 0.0
+  },
+  "Scotland": {
+    "group_winner": 0.0,
+    "group_runner_up": 0.79,
+    "super_8": 0.79,
+    "semi_final": 0.01,
+    "final": 0.0,
+    "champion": 0.0
+  },
+  "Nepal": {
+    "group_winner": 0.26,
+    "group_runner_up": 4.79,
+    "super_8": 5.050000000000001,
+    "semi_final": 0.0,
+    "final": 0.0,
+    "champion": 0.0
+  },
+  "Zimbabwe": {
+    "group_winner": 0.09,
+    "group_runner_up": 1.9800000000000002,
+    "super_8": 2.07,
+    "semi_final": 0.04,
+    "final": 0.0,
+    "champion": 0.0
+  },
+  "United States": {
+    "group_winner": 0.0,
+    "group_runner_up": 0.29,
+    "super_8": 0.29,
+    "semi_final": 0.0,
+    "final": 0.0,
+    "champion": 0.0
+  },
+  "Namibia": {
+    "group_winner": 0.0,
+    "group_runner_up": 0.03,
+    "super_8": 0.03,
+    "semi_final": 0.0,
+    "final": 0.0,
+    "champion": 0.0
+  }
+}
